@@ -1,2 +1,2 @@
-path: charts/nginx/values.yaml
+path: "charts/nginx/values.yaml"
 
